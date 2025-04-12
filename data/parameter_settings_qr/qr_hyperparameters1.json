@@ -1,0 +1,9 @@
+{
+    "chain_length": 25000,
+    "min_samples_split": 50,
+    "min_samples_leaf": 5,
+    "max_depth": 2,
+    "learning_rate": 0.15,
+    "n_estimators": 150,
+    "notes": "These hyperparameters we obtained by cross validation in pilot_study_unfolding.ipynb."
+}

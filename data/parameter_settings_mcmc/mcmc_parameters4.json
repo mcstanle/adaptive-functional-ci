@@ -1,0 +1,12 @@
+{
+    "chain_length": 21000,
+    "num_hp": 200,
+    "random_seed_hp_gen": 112358,
+    "radius": 0.5,
+    "alpha": 0.32,
+    "eta": 0.01,
+    "burn_in": 0,
+    "functional_idx": 6,
+    "polytope_type": "eigen+random",
+    "mcmc_alg": "vaidya"
+}
