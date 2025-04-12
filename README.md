@@ -1,4 +1,4 @@
-# adaOSB
+# adaFuncCI
 Code to support *Confidence intervals for functionals in constrained inverse problems via data-adaptive sampling-based calibration* (https://arxiv.org/abs/2502.02674).
 A python package containing all code to generate intervals is found in `./adaFuncCI`.
 
