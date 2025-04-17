@@ -5,7 +5,6 @@
 
 
 import sys
-sys.path.append('../CodeFirstPaper/')
 from optimization_utils import *
 LLR3D_vec = jax.jit(LLR3D_vec)
 import numpy as np

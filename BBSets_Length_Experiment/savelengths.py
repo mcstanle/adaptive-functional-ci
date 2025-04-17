@@ -1,5 +1,4 @@
 import sys
-sys.path.append('../CodeFirstPaper/')
 sys.path.append('./data')
 from optimization_utils import *
 import os
