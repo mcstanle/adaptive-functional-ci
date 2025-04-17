@@ -1,5 +1,4 @@
 import sys
-sys.path.append('./data')
 from optimization_utils import *
 import os
 #name_of_run = 'new_quantiles_run1'
@@ -17,7 +16,7 @@ args = parser.parse_args()
 # Access the nameofrun argument
 name_of_run = args.nameofrun
 
-directory = 'data/'
+directory = ''
 LLR3D_vec = jax.jit(LLR3D_vec)
 h = h3
 
